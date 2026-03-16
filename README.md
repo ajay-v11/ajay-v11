@@ -16,45 +16,14 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hey, I'm Ajay 👋</h1>
 
-<p align="center">
-  <i>Full-stack developer · learning by building · keeping things simple</i>
-</p>
+<p align="center">Backend developer · Vizag, India</p>
 
 ---
 
-### 🌱 About me
+I build and design backend systems — APIs, databases, real-time infrastructure, and deployment. Occasionally cross into the frontend when needed.
 
-I build web applications and spend a lot of time understanding **why** things work, not just **how**.
-
-I enjoy working close to fundamentals — from frontend UI details to backend logic, databases, and APIs.
+Currently exploring AI engineering and agentic workflows.
 
 ---
 
-### 🛠 What I work with
-
-- JavaScript / TypeScript  
-- React, Next.js  
-- Node.js & backend APIs  
-- Databases & system basics  
-
----
-
-### 🚧 Currently
-
-- Revisiting core CS & DSA  
-- Building small, focused projects  
-- Exploring backend & infrastructure concepts  
-
----
-
-### ✨ Philosophy
-
-> Progress over perfection  
-> Simple > clever  
-> Learn in public, build in private
-
----
-
-<p align="center">
-  ↓ Scroll down to see what I’m building ↓
-</p>
+**Node.js · TypeScript · PostgreSQL · Prisma · Redis · Docker · AWS**
